@@ -4,7 +4,7 @@ title:      Welcome to my Blog
 subtitle:   Welcome page 
 date:       2019-06-10
 author:     Zhiwei Fang
-header-img: img/intro.jpg
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - info

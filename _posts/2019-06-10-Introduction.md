@@ -16,6 +16,11 @@ tags:
 
 My name is Zhiwei Fang. I come from China, Tianjin. My major is computational mathematics. I am now interesting in numierlca simulation of electromagnetic field. My GitHub codes' epositories  is: [Github](https://github.com/pentilm).
 
+I will put more codes and papers later.
+
+$ E=mc^2 $
+$ \sqrt{x} $
+
 # Publications:
 ```
 Li, J., Fang, Z. and Lin, G., 2018. Regularity analysis of metamaterial Maxwell’s equations with random coefficients and initial conditions. Computer Methods in Applied Mechanics and Engineering, 335, pp.24-51. DOI: 10.1016/j.cma.2018.02.012

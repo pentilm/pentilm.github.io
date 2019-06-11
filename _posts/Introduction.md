@@ -3,7 +3,7 @@ layout:     post
 title:      Welcome to my Blog
 subtitle:   Welcome page 
 date:       2019-06-10
-author:     BY
+author:     Zhiwei Fang
 header-img: img/intro.jpg
 catalog: true
 tags:

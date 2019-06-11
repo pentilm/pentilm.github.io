@@ -4,19 +4,19 @@ title:      Welcome to my Blog
 subtitle:   Welcome page 
 date:       2019-06-10
 author:     BY
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/intro.jpg
 catalog: true
 tags:
     - info
 ---
 
->Introduction and publications of myself
+>Introduction publications and CV of myself
 
 # Introduction
 
 My name is Zhiwei Fang. I come from China, Tianjin. My major is computational mathematics. I am now interesting in numierlca simulation of electromagnetic field. 
 
-Unfortunately, I cannot put PDF here. So I just display my publications:
+# Publications:
 ```
 Li, J., Fang, Z. and Lin, G., 2018. Regularity analysis of metamaterial Maxwell’s equations with random coefficients and initial conditions. Computer Methods in Applied Mechanics and Engineering, 335, pp.24-51. DOI: 10.1016/j.cma.2018.02.012
 ```
@@ -39,5 +39,6 @@ Chang, S., Fang, Z., Liu, X. and Shaydurov, V., 2014. A fitted finite volume met
 Fang, Z., Li, J., Tang, T. and Zhou, T., 2019. Efficient Stochastic Galerkin Methods for Maxwell’s Equations with Random Inputs. Journal of Scientific Computing, pp.1-20.
 ```
 
+# Resume:
 <center><embed src="/Resume-ZhiweiFang-post.pdf" width="850" height="600"></center>
-![](https://github.com/pentilm/pentilm.github.io/blob/master/Resume-ZhiweiFang-post.pdf)
+

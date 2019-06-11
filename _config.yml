@@ -11,7 +11,7 @@ github_repo: "https://github.com/pentilm" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "We must know, we will know."
+sidebar-about-description: "Wir müssen wissen,wir werden wissen."
 sidebar-avatar: /img/avatar-me.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

@@ -27,7 +27,7 @@ tags:
 
 # Introduction
 
-My name is Zhiwei Fang. I come from China, Tianjin. My major is computational mathematics. I am now interesting in numierlca simulation of electromagnetic field. My GitHub codes' epositories  is: [Github](https://github.com/pentilm).
+My name is Zhiwei Fang. I come from China, Tianjin. My major is computational mathematics. I am now interesting in numierlca simulation of electromagnetic field. My GitHub codes' repositories  is: [Github](https://github.com/pentilm).
 
 I will put more codes and papers later.
 

@@ -9,6 +9,7 @@ catalog: true
 tags:
     - info
 ---
+<!--
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -20,6 +21,7 @@ tags:
         });
     </script>
 </head>
+-->
 
 >Introduction publications and CV of myself
 
@@ -28,9 +30,6 @@ tags:
 My name is Zhiwei Fang. I come from China, Tianjin. My major is computational mathematics. I am now interesting in numierlca simulation of electromagnetic field. My GitHub codes' epositories  is: [Github](https://github.com/pentilm).
 
 I will put more codes and papers later.
-
-$ E=mc^2 $
-$ \sqrt{x} $
 
 # Publications:
 ```
